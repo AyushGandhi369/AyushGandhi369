@@ -1,5 +1,4 @@
-[![Typing SVG](](https://git.io/typing-svg)[https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=500&center=true&width=1000&height=200&lines=Ayush+Gandhi%2C+here;A+Coder%2C+Designer%2C+Creator%2C+](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=50&duration=4000&pause=500&center=true&width=1000&height=200&lines=Ayush+Gandhi%2C+here;A+Coder%2C+Designer%2C+Creator%2C+)....)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=500&center=true&width=1000&height=200&lines=Ayush+Gandhi%2C+here;A+Coder%2C+Designer%2C+Creator%2C+....)](https://git.io/typing-svg)
 
 <div align="center">
 <img src="https://wakatime.com/badge/user/018d4b3a-af78-47e3-a44b-e2bc2170ae13.svg" />
